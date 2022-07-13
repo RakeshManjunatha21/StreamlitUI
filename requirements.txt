@@ -5,4 +5,4 @@ seaborn==0.11.2
 streamlit==1.9.2
 streamlit-multipage==0.0.18
 XlsxWriter==3.0.3
-
+pyxlsb
